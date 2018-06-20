@@ -10,4 +10,4 @@ Requirements
   - If the rover encounters obstacles in the terrain then it should return its last successfull location as well as a OBSTACLE status
   - If the rover encounters the edge of the world it should stop and return its last successfull location as well as a OBSTACLE status
   
-  The [JSFiddle](https://jsfiddle.net/shiva21/xnwfxxz4/14/) has the implementation of the solution for the problem.
+  The [JSFiddle](https://jsfiddle.net/shiva21/xnwfxxz4/16/) has the implementation of the solution for the problem with all the test specs.
